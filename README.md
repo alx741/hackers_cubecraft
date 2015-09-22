@@ -11,11 +11,13 @@ files inside each `src` directory.
 
 The images used for creating the figures are inside each `img` directory.
 
+A thumbnail can probably be found inside each character directory.
+
 
 Cubecraft list
 ==============
 
-* None yet
+* [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
 
 
 Using
