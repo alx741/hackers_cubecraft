@@ -6,6 +6,11 @@ celebrities, personal idols, and other suggested relevant people.
 
 These are used as desktop ornaments and are intended to be funny tributes.
 
+All the figures are created using **GIMP** and you can find the _gimp_ source
+files inside each `src` directory.
+
+The images used for creating the figures are inside each `img` directory.
+
 
 Cubecraft list
 ==============
