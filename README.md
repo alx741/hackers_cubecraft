@@ -32,6 +32,8 @@ Using
 Contributing
 ============
 
+* If you build a character that has no thumbnail yet please send me a picture.
+
 * You can always suggest a new character with a new _issue_.
 
 * If you want to create a new one by your self please ask first if the target
