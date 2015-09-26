@@ -19,6 +19,7 @@ Cubecraft list
 
 * [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 * [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+* [V (for vendetta)](https://en.wikipedia.org/wiki/V_for_Vendetta_(film))
 
 
 Using
