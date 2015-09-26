@@ -17,6 +17,7 @@ A thumbnail can probably be found inside each character directory.
 Cubecraft list
 ==============
 
+* [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 * [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
 
 
