@@ -34,13 +34,26 @@ Using
 Contributing
 ============
 
-* If you build a character that has no thumbnail yet please send me a picture.
+* Please send me pictures of your builds (to: alx741@riseup.net).
+
+* `TODO` section lists the characters that are waiting to be created, the
+difficult part is to find a good enough picture of the person (resolution, front
+facing, illumination, funny [if possible], etc) so if you can find a good one
+please send it to me.
 
 * You can always suggest a new character with a new _issue_.
 
 * If you want to create a new one by your self please ask first if the target
 character will be approved through an _issue_, if so use the content in the
 `template` directory and follow the directory structure of existing cube crafts.
+
+
+TODO
+====
+
+* Dennis Ritchie
+* Eric Raymond
+* Ken Thompson
 
 
 License
